@@ -8,7 +8,7 @@ This GitHub repository is meant to be the full documentation of the research inv
 1. MATLAB simulation files (TODO)
 2. TINA-TI SPICE Simulation files (TODO)
     Simulation 1 (Done)
-    Simulation 2 (TODO)
+    Simulation 2 (Done)
     Simulation 3 (TODO)
     Simulation 4 (TODO)
 3. Experiment files including, schematics, data collection scripts, etc (TODO)
