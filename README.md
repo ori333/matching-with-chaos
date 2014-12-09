@@ -9,7 +9,7 @@ This GitHub repository is meant to be the full documentation of the research inv
 2. TINA-TI SPICE Simulation files (TODO)
     Simulation 1 (Done) 12/05/2014
     Simulation 2 (Done) 12/07/2014
-    Simulation 3 (TODO)
+    Simulation 3 (Done) 12/08/2014
     Simulation 4 (TODO)
 3. Experiment files including, schematics, data collection scripts, etc (TODO)
 4. Demonstration simulation files for LTSPICE, NI Multisim, PSPICE (and when they don't work) (TODO)
