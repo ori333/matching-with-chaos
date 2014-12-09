@@ -6,11 +6,11 @@ Parameter Matching Using Adaptive Synchronization of Two Chua's Oscillators. IJB
 This GitHub repository is meant to be the full documentation of the research involved for the paper mentioned above and additional material that maybe useful to continuing the work.  In the formal article, many details were omitted that I hope to fill in using this platform and make it easy for others learn from.   Below are the items "matching-with-chaos" is (tentatively) planned to have...
 
 1. MATLAB simulation files (TODO)
-2. TINA-TI SPICE Simulation files (TODO)
+2. TINA-TI SPICE Simulation files (Done!)
     Simulation 1 (Done) 12/05/2014
     Simulation 2 (Done) 12/07/2014
     Simulation 3 (Done) 12/08/2014
-    Simulation 4 (TODO)
+    Simulation 4 (Done) 12/08/2014
 3. Experiment files including, schematics, data collection scripts, etc (TODO)
 4. Demonstration simulation files for LTSPICE, NI Multisim, PSPICE (and when they don't work) (TODO)
 5. Demonstration TINA-TI Simulation files for gyrator circuits to be used (copy-pasted) in other simulations. (TODO)
